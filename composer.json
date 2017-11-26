@@ -1,6 +1,6 @@
 {
     "name": "felicity-php/felicity-config",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "description": "Easy set and get of config in PHP",
     "license": "Apache-2.0",
     "authors": [
