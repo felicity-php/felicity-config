@@ -9,7 +9,7 @@
 namespace felicity\config;
 
 /**
- * Class Twig
+ * Class Config
  */
 class Config
 {

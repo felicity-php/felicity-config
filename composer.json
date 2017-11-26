@@ -25,5 +25,14 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^6.1"
+    },
+    "extra": {
+        "bootstrap": [
+            {
+                "type": "classMethod",
+                "class": "felicity\\config\\Bootstrap",
+                "method": "run"
+            }
+        ]
     }
 }
