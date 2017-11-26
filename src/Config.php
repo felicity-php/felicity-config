@@ -20,6 +20,13 @@ class Config
     private $configItems = [];
 
     /**
+     * Private constructor prevents the creation of this class outside of itself
+     */
+    private function __construct()
+    {
+    }
+
+    /**
      * Gets the config class instance
      * @return Config Singleton
      */
